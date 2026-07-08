@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I’m Monisha V, an aspiring Software Engineer with an interest in Java and Python development. 
-<br>I build full-stack applications using React and Flask and am open to SDE roles.
+Hi, I’m Monisha V, an aspiring Software Engineer with an interest in Java and Python development. I build full-stack applications using React and Flask and am open to SDE roles.
 
 
 ## 🌐 Socials:
